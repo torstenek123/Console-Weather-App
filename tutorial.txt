@@ -1,0 +1,2 @@
+Open solution file.
+Debug various program.cs files to see output in console.
